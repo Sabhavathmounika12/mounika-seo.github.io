@@ -1,3 +1,5 @@
+</head>
+<meta name="google-site-verification" content="COsc0uHEzGN5bP8xsnv4tLhlYQE9PVxgZfHoEoTIcgk" />
 ---
 layout: default
 title: Mounika | Technical SEO Portfolio
